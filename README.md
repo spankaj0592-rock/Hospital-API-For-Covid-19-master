@@ -62,8 +62,8 @@ Folder Structure
     c. routes - Contains all the routes.
     d. controllers - Contains all the controllers.
     e. config - Contains all the config files.
-## Authors
 
-- [@rajarshisg](https://github.com/rajarshisg)
+
+
 
   
