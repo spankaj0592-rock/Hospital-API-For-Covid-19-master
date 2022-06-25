@@ -11,7 +11,7 @@ An API created using NodeJS for the doctors of a hospital to cater to the need o
 Clone the project
 
 ```bash
-  git clone https://github.com/rajarshisg/Hospital-API-For-Covid-19.git
+ https://github.com/spankaj0592-rock/Hospital-API-For-Covid-19-master.git
 ```
 
 Go to the project directory
